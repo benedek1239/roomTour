@@ -1,0 +1,40 @@
+newmtl Material6
+Ka 1 0 1
+Kd 1 0 1
+Ks 0 0 0
+Ns 127
+newmtl Material3
+Ka 0 1 0
+Kd 0 1 0
+Ks 0 0 0
+Ns 127
+newmtl Material5
+Ka 0 1 1
+Kd 0 1 1
+Ks 0 0 0
+Ns 127
+newmtl Material1
+Ka 1 0 0
+Kd 1 0 0
+Ks 0 0 0
+Ns 127
+newmtl Material2
+Ka 0 0 1
+Kd 0 0 1
+Ks 0 0 0
+Ns 127
+newmtl Material4
+Ka 1 1 0
+Kd 1 1 0
+Ks 0 0 0
+Ns 127
+newmtl Material7
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 127
+newmtl Material8
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 127
